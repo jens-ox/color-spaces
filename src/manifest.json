@@ -1,0 +1,10 @@
+{
+  "name": "Color Spaces",
+  "short_name": "Color Spaces",
+  "description": "Quickly compute color space values.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#3490dc"
+}
